@@ -1,2 +1,2 @@
 👋 Hi, I’m Kamrul
-🌱 Currently studying Computer Science in University
+🌱 Bachelor of Engineering in Computer Science
